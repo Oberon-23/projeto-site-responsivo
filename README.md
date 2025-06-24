@@ -1,4 +1,4 @@
-# 🌍 Projeto Site Responsivo  
+#  Projeto Site Responsivo  
 
 ---
 
